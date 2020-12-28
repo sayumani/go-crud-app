@@ -1,0 +1,17 @@
+{
+    "id" : 1,
+    "name" : "gssssss",
+    "rating" : 5,
+    "category" : "dsd",
+    "image" : "google.com/img11",
+    "reputation" : 1800,
+    "price" : 5000,
+    "availability" : 10,
+    "location" : {
+        "city" : "tsr",
+        "state" : "kerala",
+        "country" : "india",
+        "zip_code" : 56766,
+        "address" : "sdsfsf  df fdf  df "
+    }
+}

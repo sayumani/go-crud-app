@@ -1,0 +1,17 @@
+{
+    "id" : 1,
+    "name" : "gggggssssss",
+    "rating" : 5,
+    "category" : "hotel",
+    "image" : "http://google.com/img11",
+    "reputation" : 800,
+    "price" : 5000,
+    "availability" : 10,
+    "location" : {
+        "city" : "tsr",
+        "state" : "kerala",
+        "country" : "india",
+        "zip_code" : 56766,
+        "address" : "sdsfsf  df fdf  df "
+    }
+}
