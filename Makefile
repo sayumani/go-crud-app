@@ -6,13 +6,14 @@ GOGET=$(GOCMD) get
 BINARY_NAME=simple_service
 LINTER=golangci-lint
 
-all: test build
+all: 
+	test build
 
 test:
-      $(GOTEST) ./... -v
+    $(GOTEST) ./... -v
 
 build:
-      $(GOBUILD) -o $(BINARY_NAME) -v
+    $(GOBUILD) -o $(BINARY_NAME) -v
 
 lint:
-      $(LINTER) run
+     $(LINTER) run
