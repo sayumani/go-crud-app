@@ -40,3 +40,9 @@
 
 - Set DB_HOST=localhost in .env
 - Run go run main.go
+
+# Steps to run db migration
+
+- download [goose](https://github.com/letsencrypt/goose)
+- add $GOPATH/bin to path variable
+- run goose -env=<envirmonent> up
