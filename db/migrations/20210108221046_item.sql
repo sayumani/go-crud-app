@@ -42,8 +42,8 @@ CREATE TABLE item_booking
 
 -- +goose Down
 -- SQL in this section is executed when the migration is rolled back.
-DROP TABLE item;
+DROP TABLE item CASCADE;
 
-DROP TABLE item_location;
+DROP TABLE item_location CASCADE;
 
-DROP TABLE TABLE item_booking;
+DROP TABLE item_booking CASCADE;
