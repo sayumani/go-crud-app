@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sayumani/go-crud-app.svg?branch=master)](https://travis-ci.org/sayumani/go-crud-app)
+[![Build Status](https://travis-ci.com/sayumani/go-crud-app.svg?branch=master)](https://travis-ci.com/sayumani/go-crud-app)
 
 # Items App
 
